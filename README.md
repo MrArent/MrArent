@@ -43,16 +43,3 @@ Side interests include network automation, AI tinkering, and writing Minecraft w
 | [Network-Automation](https://github.com/MrArent/Udemy-NetworkAutomation) | Network automation scripts — Paramiko, Netmiko, NAPALM, asyncio |
 | [LeetCode-Practice](https://github.com/MrArent/LeetCode-Practice) | Ongoing problem solving practice |
 | [python-practice](https://github.com/MrArent/python-practice) | Sandbox for Python experiments |
-
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrArent&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArent&layout=compact&theme=dark&hide_border=true)
-
-</div>
